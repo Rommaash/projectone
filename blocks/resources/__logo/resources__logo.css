@@ -1,0 +1,12 @@
+.resources__logo{
+    width:270px;
+    height:38px;
+}
+
+.resources__logo:hover {
+  background-color: black;
+  color: wheat;
+  transition: 2s;
+  opacity: 0.6;
+  border-radius: 30px;
+}
